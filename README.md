@@ -38,16 +38,16 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/2fc5d4d9-d1c2-4069-9380-e8c1bfa46b45)
+![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/c93216e4-a0b2-4afb-b4f1-ac24773dcb77)
 
 
 
 ### 2-Norm of a Matrix
 
-![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/63bb98fe-97f9-4188-b6cd-4b4eb36aa1ca)
+![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/3824322f-ed62-4e23-8530-831af55c84cb)
 
 ### Infinity Norm of a Matrix
-![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/bb9944ba-ba3e-4efe-9f8b-36bc264d6ac1)
+![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/a8500f2e-8de1-4a9d-82dd-a57943cadb9b)
 
 
 ## Result
