@@ -10,8 +10,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
 ```
-#Developed by: your name : Sri Muthazhagan P
-#RegisterNumber: 2305002024
+#Developed by: your name : Sharukesh T
+#RegisterNumber: 2305002022
 
 # 1-Norm of a Matrix
 import numpy as np
@@ -38,17 +38,17 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/d02fbfda-fe82-408e-83f0-eb048dd186fe)
+![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/13dddc4c-1338-42dd-bfe7-38cfd48b2ee2)
 
 
 
 ### 2-Norm of a Matrix
 
-![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/a34d374f-8fe9-4148-af32-d141a5d3122f)
+![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/6915573d-1eef-4607-bf3b-fd39775cd287)
 
 ### Infinity Norm of a Matrix
 
-![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/e6373e8a-0f55-401d-856a-c7f664038fa6)
+![image](https://github.com/adhi2k/Norm-of-a-matrix/assets/145216997/d7d9c499-524d-4cc0-afc4-3533313032d0)
 
 
 
